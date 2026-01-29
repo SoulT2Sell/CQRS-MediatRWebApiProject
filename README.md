@@ -1,2 +1,2 @@
 # CQRS&MediatRWebApiProject
-Simple Sample For CQRS and Mediatr .net Web Api Project For Resume
+Simple sample for CQRS and Mediatr .net web Api project for resume
