@@ -1,2 +1,2 @@
 # CQRS&MediatRWebApiProject
-Simple sample for CQRS and Mediatr .net web Api project 
+Sample project for CQRS and Mediatr int .net web Api. 
